@@ -17,9 +17,8 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical" />
 </p>
 
