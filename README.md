@@ -1,25 +1,32 @@
-#  Beatriz (ela/dela)
+<h1 align="center">Beatriz (ela/dela)</h1>
 
-# 💜 Olá! Seja bem-vindo(a) 
+<h2 align="center">💜 Olá! Seja bem-vindo(a) 💜</h2>
 
-<img src="https://media.giphy.com/media/jQzRZzBfK9OBy/giphy.gif" width="200" align="right">
+<p align="center">
+  <img src="https://media.giphy.com/media/jQzRZzBfK9OBy/giphy.gif" width="200">
+</p>
 
-✨ Aqui é onde eu guardo códigos, projetos e ideias aleatórias.  
-💻 Faculdade, experimentos e um pouco de caos organizado.  
+<p align="center">
+  ✨ Aqui é onde eu guardo códigos, projetos e ideias aleatórias.<br>
+  💻 Faculdade, experimentos e um pouco de caos organizado.
+</p>
 
 ---
 
-🌟 **Sinta-se à vontade para explorar!**
+<h3 align="center">🌟 Sinta-se à vontade para explorar! 🌟</h3>
 
+---
 
 ## 📊 Estatísticas do GitHub
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/beatrizcobral)
-- ✉️ **biacobral@gmail.com**
-
----
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/beatrizcobral">LinkedIn</a><br>
+  ✉️ <strong>biacobral@gmail.com</strong>
+</p>
