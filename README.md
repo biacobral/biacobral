@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Beatriz (ela/dela)
 
-<!--
-**biacobral/biacobral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💜 Olá! Seja bem-vindo(a) 
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/jQzRZzBfK9OBy/giphy.gif" width="200" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Aqui é onde eu guardo códigos, projetos e ideias aleatórias.  
+💻 Faculdade, experimentos e um pouco de caos organizado.  
+
+---
+
+🌟 **Sinta-se à vontade para explorar!**
+
+
+## 📊 Estatísticas do GitHub
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical)
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/beatrizcobral)
+- ✉️ **biacobral@gmail.com**
+
+---
