@@ -1,31 +1,44 @@
-<h1 align="center">Beatriz (ela/dela)</h1>
+<h1 align="center">Beatriz Cobral (ela/dela)</h1>
 
-<h2 align="center">💜 Olá! Seja bem-vindo(a) 💜</h2>
+<h3 align="center">Engenharia de Computação • Robótica • IA • Sistemas Embarcados</h3>
+
+<p align="center">
+   Estudante de Engenharia de Computação no Inatel <br>
+   Interesses em Inteligência Artificial, robótica e desenvolvimento de sistemas <br>
+   Sempre explorando novas tecnologias e construindo projetos
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jQzRZzBfK9OBy/giphy.gif" width="200">
 </p>
 
+---
+
+## 🧠 Áreas de Interesse
+
+- Inteligência Artificial  
+- Machine Learning  
+- Robótica  
+- Sistemas embarcados  
+- Análise de dados  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  ✨ Aqui é onde eu guardo códigos, projetos e ideias aleatórias.<br>
-  💻 Faculdade, experimentos e um pouco de caos organizado.
+  <img src="https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-<h3 align="center">🌟 Sinta-se à vontade para explorar! 🌟</h3>
+## 📫 Contato
 
----
-
-## 📊 GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📫 Onde me encontrar
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/beatrizcobral">LinkedIn</a><br>
-  ✉️ <strong>biacobral@gmail.com</strong>
+  💼 <a href="https://www.linkedin.com/in/beatrizcobral">LinkedIn</a> <br>
+  ✉️ biacobral@gmail.com
 </p>
