@@ -1,41 +1,44 @@
-<h1 align="center">Beatriz Cobral (ela/dela)</h1>
+<h1 align="center">Beatriz Cobral</h1>
 
-<h3 align="center">Engenharia de Computação • Robótica • IA • Sistemas Embarcados</h3>
+<h3 align="center">Engenharia de Computação · Inatel</h3>
 
 <p align="center">
-   Estudante de Engenharia de Computação no Inatel <br>
-   Interesses em Inteligência Artificial, robótica e desenvolvimento de sistemas <br>
-   Sempre explorando novas tecnologias e construindo projetos
+  Fascinada por IA e por fazer máquinas tomarem decisões melhores que as minhas.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jQzRZzBfK9OBy/giphy.gif" width="200">
+  <a href="https://www.linkedin.com/in/beatrizcobral">
+    <img src="https://img.shields.io/badge/LinkedIn-beatrizcobral-0077B5?style=flat\&logo=linkedin"/>
+  </a>
+  <a href="mailto:beatriz.cobral@outlook.com">
+    <img src="https://img.shields.io/badge/Email-beatriz.cobral%40outlook.com-0078D4?style=flat&logo=microsoftoutlook"/>
+  </a>
 </p>
 
----
 
-## 🧠 Áreas de Interesse
 
-- Inteligência Artificial  
-- Machine Learning  
-- Robótica  
-- Sistemas embarcados  
-- Análise de dados  
+## Sobre mim
 
----
+Estudante de Engenharia de Computação no Inatel, com foco em Inteligência Artificial e desenvolvimento de software. Gosto de entender como sistemas aprendem e de transformar essa curiosidade em código — às vezes funciona na primeira tentativa, quase nunca.
 
-## 📊 GitHub Stats
+
+
+
+
+## Interesses
+
+* Inteligência Artificial e Machine Learning
+* Análise de Dados
+* Desenvolvimento de Software
+* Robótica e Sistemas Embarcados
+* Educação
+* Tecnologia com propósito
+
+
+
+## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biacobral&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biacobral&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biacobral&theme=radical" height="150"/>
 </p>
 
----
-
-## 📫 Contato
-
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/beatrizcobral">LinkedIn</a> <br>
-  ✉️ biacobral@gmail.com
-</p>
