@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Estudante de Engenharia de Computação no Inatel, com foco em Inteligência Artificial e desenvolvimento de software. Gosto de entender como sistemas aprendem e de transformar essa curiosidade em código — às vezes funciona na primeira tentativa, quase nunca.
+Estudante de Engenharia de Computação no Inatel, com foco em dados, IoT e desenvolvimento de software. Gosto de entender como sistemas aprendem e de transformar essa curiosidade em código — às vezes funciona na primeira tentativa, quase nunca.
 
 
 
